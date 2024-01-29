@@ -1,7 +1,7 @@
 # Python_learning
-In this python learning repository you will understand about the list comprehension, dictionary comprehension, and lambda functions in Python.
+In this python learning repository you will understand about the list comprehension, dictionary comprehension, and lambda functions in Python.Here, you'll delve into fundamental concepts and advanced techniques that make Python such a versatile and powerful programming language.
 # List comprehension
-A Python list comprehension consists of brackets containing the expression, which is executed for each element along with the for loop to iterate over each element in the Python list. 
+List comprehension is a concise and powerful feature in Python for creating lists.A Python list comprehension consists of brackets containing the expression, which is executed for each element along with the for loop to iterate over each element in the Python list. 
 # Dictionary comprehension
 Dictionary comprehension is a technique for creating Python dictionaries in one line. The method creates dictionaries from iterable objects, such as a list, tuple, or another dictionary. Dictionary comprehension also allows filtering and modifying key-value pairs based on specified conditions.
 # Lambda Functions
